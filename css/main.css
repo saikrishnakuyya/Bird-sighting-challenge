@@ -1,0 +1,76 @@
+*, *:before,*:after {
+    box-sizining:inherit;
+}
+
+.inputs {
+    text-align: right;
+}
+
+label {
+    display:block;
+    margin-top: 10px;
+}
+
+legend {
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+button {
+    color: brown;
+    margin-top: 20px;
+}
+
+.submit {
+    text-align: end;
+}
+
+.list {
+    color: peru;
+    border: 1px solid black;
+    width: 500px;
+    border-collapse: collapse; 
+    flex-basis: 10px;
+    text-align: left;
+    margin-top: 20px;
+    background-color: antiquewhite; 
+}
+
+.undertable {
+    background-color:pink;
+    text-align: center;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+fieldset {
+    background-color: beige;
+    padding: 40px;
+    border: 1.4px solid black;
+    border-radius: 10px;
+    width: 400px;
+}
+
+p.error{
+    color : red;
+}
+
+
+ th  {
+    border: 1px solid black;   
+}
+
+td {
+    border: 1px solid black;
+}
+
+
+
+
+/* table stysling*/
+
+/* tr{
+    padding: 2%;
+    background-color: white;
+    color: black;
+} */
